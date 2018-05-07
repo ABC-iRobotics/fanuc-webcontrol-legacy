@@ -1,4 +1,4 @@
-# fanuc-webcontrol
+# fanuc-webcontrol-legacy
 
 ## Overview
 Simple software to control FANUC six degree of freedom robotic arms through a web browser.
