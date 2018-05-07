@@ -5,7 +5,7 @@ Simple software to control FANUC six degree of freedom robotic arms through a we
 This version is used to robot controller software 7.20x.
 If the robot controller version is 7.30x or above then use this: https://github.com/ABC-iRobotics/fanuc-webcontrol version
 
-![Image of fanuc-webcontrol](preview.png)
+![Image of fanuc-webcontrol](preview.jpg)
 
 **NOTE**: It is an experimental software. Do not use this in production systems!
 
